@@ -40,11 +40,8 @@ Data Science Portfolio - Showcasing various data analysis projects.
 
 🌐 Let's Connect:
 
-Email: your.email@example.com
-
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
+Email: aliemreutku@yandex.com
+Instagram: _aliemrr_
 
 🌍 "Striving for excellence in AI and game development while building a sustainable learning journey."
 
